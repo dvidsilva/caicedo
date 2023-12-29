@@ -9,6 +9,12 @@ novela ¡Qué viva la música! ha tenido gran difusión entre el público.
 Con este proyecto buscamos hacer una forma de necromancia que lo trae de vuelta
 a nuestras vidas de forma cibernetica.
 
+## Getting started
+
+### Requirements
+
+[Installation docs](./docs/install.md)
+
 ## LICENSE
 
 [The Satire License (TSL)](./LICENSE)
