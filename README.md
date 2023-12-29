@@ -15,6 +15,26 @@ a nuestras vidas de forma cibernetica.
 
 [Installation docs](./docs/install.md)
 
+### Input file
+
+Generate input file from txt source:
+
+macbook:
+```
+cat txt/*.txt >> input/input.txt
+```
+
+## Acknowledgements
+
+Thanks to Karpathy for an amazing explanation and the source code for this model.
+
+Honestly wouldn't have attempted this if he hadn't made it so easy. Cheers to
+open source and community.
+
+[Repo](https://github.com/karpathy/ng-video-lecture/blob/master/bigram.py)
+
+[Youtube lecture](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
 ## LICENSE
 
 [The Satire License (TSL)](./LICENSE)
