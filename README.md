@@ -30,6 +30,35 @@ Generate clean input:
 python clean.py >> input/input_clean.txt
 ```
 
+Run bigram algo on input:
+
+```
+python bigram.py
+```
+
+Run GPT
+
+```
+python gpt.py
+```
+
+## Todo:
+
+Parametrize input and output to add more customization
+
+Perform better data clean steps for spanish
+
+## Debugging
+
+Install missing packages like:
+
+```
+pip install torch
+pip install numpy
+```
+
+Using python version `3.11`
+
 ## Acknowledgements
 
 Thanks to Karpathy for an amazing explanation and the source code for this model.
